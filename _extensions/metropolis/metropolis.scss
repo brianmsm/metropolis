@@ -76,13 +76,17 @@ body.dark .reveal h6 {
     letter-spacing: normal;
     text-transform: none;
     text-shadow: none;
-    word-wrap: break-word; }
+    word-wrap: break-word;}
 
 .reveal h1 {
     font-size: 1.77em; }
 
 .reveal h2 {
-    font-size: 1.30em; }
+    font-size: 1.30em;
+    color: #f1f1f1;
+    background-color: #23373b;
+    padding: 10px 0px 10px 10px;
+    border-radius: 12px;}
 
 .reveal h3 {
     font-size: .95em; }
