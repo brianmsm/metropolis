@@ -11,7 +11,7 @@ A Quarto custom format to use a revealjs theme inspired by Beamer Metropolis The
 :warning: This extension requires Quarto version to be at least 1.2
 
 ```bash
-quarto use template shafayetShafee/metropolis
+quarto use template brianmsm/metropolis
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
@@ -24,7 +24,7 @@ You may also use this format with an existing Quarto project or document. This w
 From the quarto project or document directory, run the following command:
 
 ```bash
-quarto add shafayetShafee/metropolis
+quarto add brianmsm/metropolis
 ```
 
 ## Using
